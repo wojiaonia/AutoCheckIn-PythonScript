@@ -1,4 +1,4 @@
-# AutoCheckIN-PythonScript
+# AutoCheckIn-PythonScript
 这是电脑端-Python脚本代码，请移步查看安卓端源代码：[安卓app端代码](https://github.com/wojiaonia/AutoCheckIn)
 
 ## Introduction
